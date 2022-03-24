@@ -53,7 +53,7 @@ function draw() {
 
   createHearts()
   createblueBones() 
-
+  createorangeBones()
 
 console.log(gamestate)
 
